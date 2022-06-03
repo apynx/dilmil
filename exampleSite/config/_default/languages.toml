@@ -1,7 +1,7 @@
 ############################# English ############################
 [en]
 languageName = "En"
-title = "Bigspring Hugo"
+title = "Pengadilan Militer III-12 Surabaya"
 contentDir = "content/english" # content/english
 weight = 1
 ########### footer content ##########
@@ -10,7 +10,7 @@ footer_menu_middle = "Product"
 footer_menu_right = "Support"
 footer_content = "Jl. Ir. H. Juanda No.85 Sidoarjo, Jawa Timur 61254"
 # copyright
-copyright = "Design by [Aping Blog](https://aping.my.id/) with [Hugo](https://gohugo.io/)"
+copyright = "Design by [APYNX](https://aping.my.id/ "Aping Blog") with [Hugo](https://gohugo.io/ "Hugo")"
 
 
 

@@ -1,6 +1,6 @@
 # main menu
 [[main]]
-name = "Home"
+name = "Beranda"
 url = "/"
 weight = 1
 
@@ -8,6 +8,11 @@ weight = 1
 name = "Blog"
 url = "blog/"
 weight = 2
+
+[[menu.main]]
+name = "Test"
+url = "test/"
+weight = 1
 
 [[main]]
 name = "Pricing"
