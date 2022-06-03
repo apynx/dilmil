@@ -5,12 +5,12 @@ title = "Bigspring Hugo"
 contentDir = "content/english" # content/english
 weight = 1
 ########### footer content ##########
-footer_menu_left = "Company"
+footer_menu_left = "Lokasi"
 footer_menu_middle = "Product"
 footer_menu_right = "Support"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
+footer_content = "Jl. Ir. H. Juanda No.85 Sidoarjo, Jawa Timur 61254"
 # copyright
-copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Design by [Aping Blog](https://aping.my.id/) with [Hugo](https://gohugo.io/)"
 
 
 

@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "http://demo.gethugothemes.com/bigspring-light/examplesite/"
-title = "Bigspring Light"
+baseURL = "https://dilmil.netlify.app/"
+title = "Pengadilan Militer III-12 Surabaya"
 theme = "bigspring-light"
 # post pagination
 paginate = "3"
